@@ -12,7 +12,8 @@
 
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
-  <name>Webapp</name>
+   <version>2.0</version>
+   <name>Webapp</name>
   <description>Webapp.</description>
 
   <build>
